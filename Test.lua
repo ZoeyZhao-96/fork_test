@@ -7,3 +7,4 @@ local c = a + b
 
 local maintest = 4
 local mt = 5
+local name = 2222
