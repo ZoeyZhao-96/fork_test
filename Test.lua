@@ -7,3 +7,4 @@ local c = a + b
 local d = a + b + c
 local e = a + b + c + d
 local f = 123
+local z = 1
