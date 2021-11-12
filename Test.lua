@@ -1,6 +1,10 @@
 --- Fork Test
 
 local conflictTest = 1
-local a = abcabc
-local b = 3333333
+local a = 22
+local b = 33
 local c = a + b
+
+local maintest = 4
+local mt = 5
+local test = '一次没有进行的提交'
