@@ -10,3 +10,4 @@ local f = 123
 local z = 'main'
 
 local a, b, c, d, e, f, z
+local a, b, c, d, e, f
