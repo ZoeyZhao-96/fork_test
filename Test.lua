@@ -9,3 +9,4 @@ local maintest = 4
 local mt = 5
 local name = 2222
 local l = 11231231
+e = 2222
