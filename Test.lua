@@ -6,3 +6,4 @@ local b = 33
 local c = a + b
 
 local maintest = 2
+local what = '?'
