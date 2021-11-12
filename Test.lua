@@ -8,3 +8,5 @@ local d = a + b + c
 local e = a + b + c + d
 local f = 123
 local z = 'main'
+
+local a, b, c, d, e, f, z
