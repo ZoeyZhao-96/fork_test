@@ -5,4 +5,4 @@ local a = 22
 local b = 33
 local c = a + b
 
-local newtest = 1
+local maintest = 2
